@@ -7,8 +7,8 @@ import joblib
 
 # Configuración de conexión con MySQL
 DB_CONFIG = {
-    "host": "pruebai.mysql.database.azure.com",
-    "user": "oebwvuukfg",
+    "host": "ventas-ia-mysql.mysql.database.azure.com",
+    "user": "wsuarez",
     "password": "Afsmnz78",
     "database": "ventas_db"
 }
